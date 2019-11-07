@@ -1,0 +1,9 @@
+D:\hospital\backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+D:\hospital\backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\hospital\backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+D:\hospital\backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb

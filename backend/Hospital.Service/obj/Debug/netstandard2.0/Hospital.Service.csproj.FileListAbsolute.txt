@@ -1,0 +1,14 @@
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repository.dll
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repository.pdb
+D:\hospital\backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+D:\hospital\backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb
